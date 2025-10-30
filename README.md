@@ -286,8 +286,8 @@ MIT License - see [LICENSE](LICENSE) for details.
 ## Links
 
 - [MCP Specification](https://modelcontextprotocol.io)
-- [Source Code](https://gitlab.com/pranavraja/elixir-sdk)
-- [Issue Tracker](https://gitlab.com/pranavraja/elixir-sdk/-/issues)
+- [Source Code](https://github.com/Pranavj17/elixir-sdk)
+- [Issue Tracker](https://github.com/Pranavj17/elixir-sdk/issues)
 
 ## Acknowledgments
 

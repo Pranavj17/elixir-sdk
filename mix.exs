@@ -2,7 +2,7 @@ defmodule MCP.MixProject do
   use Mix.Project
 
   @version "0.1.0"
-  @source_url "https://gitlab.com/pranavraja/elixir-sdk"
+  @source_url "https://github.com/Pranavj17/elixir-sdk"
 
   def project do
     [
@@ -46,7 +46,7 @@ defmodule MCP.MixProject do
       name: "mcp_sdk",
       licenses: ["MIT"],
       links: %{
-        "GitLab" => @source_url,
+        "GitHub" => @source_url,
         "MCP Specification" => "https://modelcontextprotocol.io"
       }
     ]

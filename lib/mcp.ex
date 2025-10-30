@@ -105,7 +105,7 @@ defmodule MCP do
   ## Links
 
   - [MCP Specification](https://modelcontextprotocol.io)
-  - [Source Code](https://gitlab.com/pranavraja/elixir-sdk)
+  - [Source Code](https://github.com/Pranavj17/elixir-sdk)
   """
 
   @version Mix.Project.config()[:version]
